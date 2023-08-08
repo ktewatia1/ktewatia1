@@ -1,4 +1,5 @@
 ### Hi there 👋
+"Building a foundation in Python and diving deep into the world of data analysis 📊 | Transforming raw data into valuable insights | Exploring the art of coding and numbers | Join me on this data-driven journey!"
 
 <!--
 **ktewatia1/ktewatia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
